@@ -4,6 +4,9 @@
 - Contact [OpenIntel](https://openintel.nl/) check for list of domains with "leak" and the timeseries of the creation of these domains
 - Follow the money on wallets!
 
+## DONE
+- Crawler TOR with Selenium: https://gist.github.com/jjsantanna/e6a31de0177f912deceb7d3c12fdad52
+
 ## Interesting links
 - https://www.nomoreransom.org
 
