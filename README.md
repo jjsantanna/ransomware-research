@@ -1,2 +1,4 @@
-# ransomware_research
-Ransomware Research
+# Research on Ransomware
+
+## Interesting links
+- https://www.nomoreransom.org
