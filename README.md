@@ -21,5 +21,6 @@
 - exploit.in
 - evilzone.org
 
-## On onion
+## Links to .onionS
 - https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017
+- https://thehiddenwiki.org/
