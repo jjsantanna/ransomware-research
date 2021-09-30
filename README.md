@@ -4,6 +4,7 @@
 - Contact [OpenIntel](https://openintel.nl/) check for list of domains with "leak" and the timeseries of the creation of these domains
 - Follow the money on wallets!
 - How to find spam campaing?S @Frank
+- https://www.projecthoneypot.org/
 
 ## DONE
 - Crawler TOR with Selenium: https://gist.github.com/jjsantanna/e6a31de0177f912deceb7d3c12fdad52
