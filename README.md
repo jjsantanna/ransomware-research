@@ -5,6 +5,8 @@
 - Follow the money on wallets!
 - How to find spam campaing?S @Frank
 - https://www.projecthoneypot.org/
+- (tool) Cobaltstrike (https://www.cobaltstrike.com/) (contains Mimikatz)
+- (tool) BloodHound (https://github.com/BloodHoundAD/BloodHound)
 
 ## DONE
 - Crawler TOR with Selenium: https://gist.github.com/jjsantanna/e6a31de0177f912deceb7d3c12fdad52
