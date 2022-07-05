@@ -1,5 +1,8 @@
 # Research on Ransomware
 
+# Ransomware negotiation data sharing
+- Model: https://www.misp-project.org/objects.html#_ransom_negotiation
+
 ## TODO
 - Contact [OpenIntel](https://openintel.nl/) check for list of domains with "leak" and the timeseries of the creation of these domains
 - Follow the money on wallets!
