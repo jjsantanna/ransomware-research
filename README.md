@@ -1,6 +1,6 @@
 # Research on Ransomware
 
-# Ransomware negotiation data sharing
+## Ransomware negotiation data sharing
 - Model: https://www.misp-project.org/objects.html#_ransom_negotiation
 
 ## TODO
