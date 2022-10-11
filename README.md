@@ -21,6 +21,7 @@ Other links:
 - [https://github.com/microsoft/msticpy/blob/main/docs/notebooks/ContiLeaksAnalysis.ipynb](https://github.com/microsoft/msticpy/blob/main/docs/notebooks/ContiLeaksAnalysis.ipynb)
 - [https://siliconangle.com/2022/07/19/report-find-hackers-linked-conti-ransomware-gang-active/](https://siliconangle.com/2022/07/19/report-find-hackers-linked-conti-ransomware-gang-active/)
 - [https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/](https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/)
+- [https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
 
 
 </details>
