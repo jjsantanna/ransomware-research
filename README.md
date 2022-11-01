@@ -24,3 +24,9 @@ Other links:
 </details>
 
 
+<details>
+<summary> REvil arrest </summary>
+- [Youtube video of the arrest](https://www.youtube.com/watch?v=OqEWuFmzhzs)
+- [BBC on the arrest coverage](https://www.bbc.com/news/technology-59998925)
+- [BBC on the reconning](https://www.bbc.com/news/technology-59215167)
+</details>
