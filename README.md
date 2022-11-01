@@ -11,7 +11,6 @@ Other links:
 
 <details>
 <summary> On Conti ransomware group </summary>
-
 - [https://share.vx-underground.org/Conti/](https://share.vx-underground.org/Conti/)
 - [https://northwave-security.com/when-the-hackers-get-hacked%E2%80%AF-part-ii/](https://northwave-security.com/when-the-hackers-get-hacked%E2%80%AF-part-ii/)
 - [https://northwave-security.com/en/when-the-hackers-get-hacked-part-1-a-blog-series-unveiling-the-conti-ransomware-family/](https://northwave-security.com/en/when-the-hackers-get-hacked-part-1-a-blog-series-unveiling-the-conti-ransomware-family/)
@@ -22,6 +21,6 @@ Other links:
 - [https://siliconangle.com/2022/07/19/report-find-hackers-linked-conti-ransomware-gang-active/](https://siliconangle.com/2022/07/19/report-find-hackers-linked-conti-ransomware-gang-active/)
 - [https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/](https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/)
 - [https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf](https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf)
-
-
 </details>
+
+
