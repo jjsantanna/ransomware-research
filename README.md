@@ -12,6 +12,7 @@ Other links:
 
 <details>
 <summary> On Conti ransomware group </summary>
+
 - [https://share.vx-underground.org/Conti/](https://share.vx-underground.org/Conti/)
 - [https://northwave-security.com/when-the-hackers-get-hacked%E2%80%AF-part-ii/](https://northwave-security.com/when-the-hackers-get-hacked%E2%80%AF-part-ii/)
 - [https://northwave-security.com/en/when-the-hackers-get-hacked-part-1-a-blog-series-unveiling-the-conti-ransomware-family/](https://northwave-security.com/en/when-the-hackers-get-hacked-part-1-a-blog-series-unveiling-the-conti-ransomware-family/)
