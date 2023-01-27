@@ -34,3 +34,27 @@ Other links:
 - [BBC on the reconning](https://www.bbc.com/news/technology-59215167)
   
 </details>
+
+# Topics
+- Ransomware Evolution and Trends
+- Impact of Ransomware on Business Continuity
+- Ransomware Detection and Prevention
+- Ransomware Attribution and Takedown
+- Ransomware and the Darknet
+- Ransomware and Public Policy
+- Ransomware and Legal Challenges
+- Ransomware and Victims
+- Ransomware against IoT, ICS/OT, Cloud Computing
+- Ransomware against cyber-physical systems
+- Ransomware and Cryptocurrency 
+- Ransomware and Blockchain technology
+- Ransomware and Human Behaviour
+- Ransomware and Cyber Insurance
+- Ransomware and Supply Chain Attacks
+- Ransomware and multi-vector attacks
+- Ransomware and AI
+- Ransomware and National Security
+- Ransomware and cybercrime economics
+- Ransomware and mobile devices
+- Ransomware and incident response
+
